@@ -1,2 +1,30 @@
-# Ecommerce-Sales-Dashboard
-This Excel-based sales dashboard provides a detailed analysis of e-commerce performance, enabling businesses to monitor key sales metrics, profitability, and trends. Designed for business owners, analysts, and decision-makers, it allows users to visualize data and gain actionable insights that drive strategic planning.
+
+# **E-Commerce Sales Analysis Dashboard**  
+
+## **Overview**  
+This **Excel-based Sales Dashboard** provides a **comprehensive analysis of e-commerce sales**, helping businesses track key metrics, identify trends, and optimize profitability. Designed for **business analysts, e-commerce owners, and decision-makers**, this interactive tool enables **data-driven insights** through visual analytics and filtering options.
+
+## **Key Insights**  
+- **Total Sales:** $2,297,200.86 (**Growth:** +20.62%)  
+- **Profit:** $286,397.02 (**Growth:** +14.41%)  
+- **Quantity Sold:** 37,873 items (**Growth:** +27.45%)  
+- **Total Orders:** 9,994 (**Growth:** +28.64%)  
+- **Profit Margin:** 12.47% (**Growth:** -5.15%)  
+
+## **Dashboard Features**  
+✔️ **Revenue & Profit Trends:** Monthly sales breakdown with comparative analysis.  
+✔️ **Category-Wise Sales Performance:** Identify top-selling and high-margin product categories.  
+✔️ **State-Wise Sales Distribution:** Regional insights to refine marketing strategies.  
+✔️ **Top 10 Subcategories:** Highlights the most profitable and high-demand products.  
+✔️ **Interactive Filters:** Drill down on data based on **year, region, and customer demographics**.  
+
+## **Technologies & Tools Used**  
+- **Microsoft Excel** (PivotTables, Data Visualization, Conditional Formatting)  
+- **Power Query** (Data Transformation & Automation)  
+- **Advanced Analytics** (Charts, Graphs & Interactive Dashboards)  
+
+## **Business Impact**  
+🚀 Enables businesses to **track sales growth** and **identify market trends**  
+📊 Helps optimize **pricing, inventory, and customer targeting** strategies  
+📌 Supports **data-driven decision-making** for improved profitability  
+
