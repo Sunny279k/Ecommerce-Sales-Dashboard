@@ -30,4 +30,7 @@ This **Excel-based Sales Dashboard** provides a **comprehensive analysis of e-co
 
 ## **Dataset used**
 - <a href="https://github.com/Sunny279k/Ecommerce-Sales-Dashboard/blob/main/Screenshot%202025-04-22%20160152.png">Dataset<a
+## Dashboard
+![Screenshot 2025-04-22 160152](https://github.com/user-attachments/assets/65301f07-e7a8-4e5c-8fb1-f7ee3642a8b6)
+
                                                                                                                            
