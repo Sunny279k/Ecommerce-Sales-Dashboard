@@ -28,3 +28,6 @@ This **Excel-based Sales Dashboard** provides a **comprehensive analysis of e-co
 📊 Helps optimize **pricing, inventory, and customer targeting** strategies  
 📌 Supports **data-driven decision-making** for improved profitability  
 
+## **Dataset used**
+- <a href="https://github.com/Sunny279k/Ecommerce-Sales-Dashboard/blob/main/Screenshot%202025-04-22%20160152.png">Dataset<a
+                                                                                                                           
